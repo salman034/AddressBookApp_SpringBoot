@@ -54,7 +54,4 @@ public class AddressBookController {
         return new ResponseEntity<ResponseDTO>(responseDTO, HttpStatus.OK);
     }
 
-
-
 }
-//https://screenrec.com/share/32YUswpAD7
